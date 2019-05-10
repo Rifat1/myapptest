@@ -1,2 +1,2 @@
-def multiply():
-    return x*y
+def addition(x, y):
+    return x+y
